@@ -1,6 +1,5 @@
 """Extract nested values from a JSON tree."""
 
-
 def json_extract(obj, key):
     """Recursively fetch values from nested JSON."""
     arr = []
